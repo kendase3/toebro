@@ -22,7 +22,7 @@ import pyglet
 from pyglet.gl import *
 import math
 
-WIGGLE_ROOM = 55 #arbitrary wiggle room pixels
+WIGGLE_ROOM = 300 #arbitrary wiggle room pixels
 
 class GameState:
 	"""
